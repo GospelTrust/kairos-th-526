@@ -1,0 +1,90 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2023-11-05
+  end: 2023-11-11
+  theme: c1
+  items:
+    - syllabus
+    - reading-01
+    - lecture-01
+    - lecture-02
+    - lecture-03
+    - lecture-04
+    - lecture-05
+    - lecture-06
+    - essay-01
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2023-11-12
+  end: 2023-11-18
+  theme: c3
+  items:
+    - reading-02
+    - lecture-07
+    - lecture-08
+    - lecture-09
+    - lecture-10
+    - lecture-11
+    - lecture-12
+    - essay-02
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2023-11-19
+  end: 2023-11-25
+  theme: c5
+  items:
+    - reading-03
+    - lecture-13
+    - lecture-14
+    - lecture-15
+    - lecture-16
+    - lecture-17
+    - essay-03
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2023-11-26
+  end: 2023-12-02
+  theme: c7
+  items:
+    - reading-04
+    - lecture-18
+    - lecture-19
+    - lecture-20
+    - lecture-21
+    - lecture-22
+    - essay-04
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2023-11-31
+  end: 2023-11-05
+  theme: c9
+  items:
+    - reading-05
+    - lecture-23
+    - lecture-24
+    - lecture-25
+    - lecture-26
+    - essay-05
+
+week-06:
+  title: 'Week 6'
+  segment: ['week', 6]
+  begin: 2023-11-07
+  end: 2023-11-19
+  theme: c2
+  items:
+    - reading-06
+    - lecture-27
+    - lecture-28
+    - lecture-29
+    - essay-06
+    - final

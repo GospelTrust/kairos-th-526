@@ -1,0 +1,383 @@
+syllabus:
+  segment: 'week-01'
+  title: 'CH-526 Church History'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+lecture-01:
+  segment: 'week-01'
+  title: "Luther’s Reformation Breakthrough"
+  icon: tv
+  header: 'Lecture 1'
+  sequence: 1
+  url: 'lecture-01'
+  videos: [ "Sjy23bJdLQg" ]
+
+lecture-02:
+  segment: 'week-01'
+  title: "Luther's Reformation"
+  icon: tv
+  header: 'Lecture 2'
+  sequence: 2
+  url: 'lecture-02'
+  videos: [ "pX0oqGbSiG0" ]
+
+lecture-03:
+  segment: 'week-01'
+  title: 'Henry VIII and Early Anglicanism'
+  icon: tv
+  header: 'Lecture 3'
+  sequence: 3
+  url: 'lecture-03'
+  videos: [ "8oa2Po4Lw60" ]
+
+lecture-04:
+  segment: 'week-01'
+  title: 'Calvin and Bullinger: Reformed Tradition'
+  icon: tv
+  header: 'Lecture 4'
+  sequence: 4
+  url: 'lecture-04'
+  videos: [ "Y1k6VZ2ERkM" ]
+
+lecture-05:
+  segment: 'week-01'
+  title: 'Huguenots and French Reformation'
+  icon: tv
+  header: 'Lecture 5'
+  sequence: 5
+  url: 'lecture-05'
+  videos: [ "1wOgMLZlF1Y" ]
+
+lecture-06:
+  segment: 'week-01'
+  title: 'Ignatius Loyola and Catholic Reform'
+  icon: tv
+  header: 'Lecture 6'
+  sequence: 6
+  url: 'lecture-06'
+  videos: [ "xHjVsNFE60U" ]
+
+lecture-07:
+  segment: 'week-02'
+  title: 'Elizabeth I and Anglicanism'
+  icon: tv
+  header: 'Lecture 7'
+  sequence: 7
+  url: 'lecture-07'
+  videos: [ "BP4dtZoWlZg" ]
+
+lecture-08:
+  segment: 'week-02'
+  title: 'The 17th Century'
+  icon: tv
+  header: 'Lecture 8'
+  sequence: 8
+  url: 'lecture-08'
+  videos: [ "2UfjqOXG4Ok" ]
+
+lecture-09:
+  segment: 'week-02'
+  title: 'Puritanism'
+  icon: tv
+  header: 'Lecture 9'
+  sequence: 9
+  url: 'lecture-09'
+  videos: [ "yPLP1T1RA_A" ]
+
+lecture-10:
+  segment: 'week-02'
+  title: 'Unitarians, Baptists, and Quakers'
+  icon: tv
+  header: 'Lecture 10'
+  sequence: 10
+  url: 'lecture-10'
+  videos: [ "WV17mlmGnnc" ]
+
+lecture-11:
+  segment: 'week-02'
+  title: 'Dutch Revolt and Arminianism'
+  icon: tv
+  header: 'Lecture 11'
+  sequence: 11
+  url: 'lecture-11'
+  videos: [ "H05vS1IVLw8" ]
+
+lecture-12:
+  segment: 'week-02'
+  title: 'Lutheran Pietism'
+  icon: tv
+  header: 'Lecture 12'
+  sequence: 12
+  url: 'lecture-12'
+  videos: [ "MQIwCHvU8gU" ]
+
+lecture-13:
+  segment: 'week-03'
+  title: 'Enlightenment part 1'
+  icon: tv
+  header: 'Lecture 13'
+  sequence: 13
+  url: 'lecture-13'
+  videos: [ "DdB4DzKTyb0" ]
+
+lecture-14:
+  segment: 'week-03'
+  title: '18th Century'
+  part: 1
+  icon: tv
+  header: 'Lecture 14'
+  sequence: 14
+  url: 'lecture-14'
+  videos: [ "sLSiw1c8ayc" ]
+
+lecture-15:
+  segment: 'week-03'
+  title: 'Pilgrims in the New World'
+  part: 2
+  icon: tv
+  header: 'Lecture 15'
+  sequence: 15
+  url: 'lecture-15'
+  videos: [ "udN6XLWNpKU" ]
+
+lecture-16:
+  segment: 'week-03'
+  title: 'Life of John Wesley'
+  icon: tv
+  header: 'Lecture 16'
+  sequence: 16
+  url: 'lecture-16'
+  videos: [ "xCKzOhUaG94" ]
+
+lecture-17:
+  segment: 'week-03'
+  title: 'Wesley and Whitefield'
+  icon: tv
+  header: 'Lecture 17'
+  sequence: 17
+  url: 'lecture-17'
+  videos: [ "rgqicv3nRdg" ]
+
+lecture-18:
+  segment: 'week-04'
+  title: 'Great Awakening'
+  icon: tv
+  header: 'Lecture 18'
+  sequence: 18
+  url: 'lecture-18'
+  videos: [ "0IBEXiIjmps" ]
+
+lecture-19:
+  segment: 'week-04'
+  title: 'American Revolution and Church'
+  icon: tv
+  header: 'Lecture 19'
+  sequence: 19
+  url: 'lecture-19'
+  part: 1
+  videos: [ "sKWUcSpk5Jk" ]
+
+lecture-20:
+  segment: 'week-04'
+  title: 'Second Great Awakening'
+  icon: tv
+  header: 'Lecture 20'
+  sequence: 20
+  url: 'lecture-20'
+  part: 2
+  videos: [ "t2LTugtRQEQ" ]
+
+lecture-21:
+  segment: 'week-04'
+  title: 'Voltaire and Radical'
+  icon: tv
+  header: 'Lecture 21'
+  sequence: 21
+  url: 'lecture-21'
+  videos: [ "NYfVGQp_g68" ]
+
+lecture-22:
+  segment: 'week-04'
+  title: '19th Century'
+  icon: tv
+  header: 'Lecture 22'
+  sequence: 22
+  url: 'lecture-22'
+  videos: [ "1LgLOYaC69Q" ]
+
+lecture-23:
+  segment: 'week-05'
+  title: 'Liberalism and Church'
+  icon: tv
+  header: 'Lecture 23'
+  sequence: 23
+  url: 'lecture-23'
+  videos: [ "rvkjqM5Gfio" ]
+
+lecture-24:
+  segment: 'week-05'
+  title: 'Great Awakening: Holiness and Restoration Movement'
+  icon: tv
+  header: 'Lecture 24'
+  sequence: 24
+  url: 'lecture-24'
+  videos: [ "ZosWezNiSys" ]
+
+lecture-25:
+  segment: 'week-05'
+  title: 'Christian Fundamentalism'
+  icon: tv
+  header: 'Lecture 25'
+  sequence: 25
+  url: 'lecture-25'
+  videos: [ "ZRi1mOQEXQw" ]
+
+lecture-26:
+  segment: 'week-05'
+  title: 'Rise of Evangelicalism'
+  icon: tv
+  header: 'Lecture 26'
+  sequence: 26
+  url: 'lecture-26'
+  videos: [ "XZtUyEoQBiU" ]
+
+lecture-27:
+  segment: 'week-06'
+  title: 'Pentacostalism'
+  icon: tv
+  header: 'Lecture 27'
+  sequence: 27
+  url: 'lecture-27'
+  videos: [ "LzT3pRu2FkY" ]
+
+lecture-28:
+  segment: 'week-06'
+  title: 'Black Church and Civil Rights'
+  icon: tv
+  header: 'Lecture 28'
+  sequence: 28
+  url: 'lecture-28'
+  videos: [ "yq42jOecg8w" ]
+
+lecture-29:
+  segment: 'week-06'
+  title: 'Catholics in America'
+  icon: tv
+  header: 'Lecture 29'
+  sequence: 29
+  url: 'lecture-29'
+  videos: [ "7F7Tbo5LMek" ]
+
+reading-01:
+  segment: 'week-01'
+  title: 'Gonzalez 1-12'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-01'
+
+reading-02:
+  segment: 'week-02'
+  title: 'GG 1-3, WC 11'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-02'
+
+reading-03:
+  segment: 'week-03'
+  title: 'G. 21-23, GG 5, WC 7'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-03'
+
+reading-04:
+  segment: 'week-04'
+  title: 'G. 24-25, GG 7, WC 9'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-04'
+
+reading-05:
+  segment: 'week-05'
+  title: 'G. 26-29, GG 6, WC 8'
+  icon: book
+  header: 'Book'
+  type: 'Reading'
+  url: 'reading-05'
+
+reading-06:
+  segment: 'week-06'
+  title: 'G 30-36, GG 8, WC 12'
+  icon: book
+  header: 'Book'
+  type: 'Reading'
+  url: 'reading-06'
+
+essay-01:
+  segment: 'week-01'
+  title: 'Introduction'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-01'
+  due: 2023-11-17
+
+essay-02:
+  segment: 'week-02'
+  title: 'Catholic v. Protestant'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-02'
+  due: 2023-11-24
+
+essay-03:
+  segment: 'week-03'
+  title: 'Christian Orthodoxy'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-03'
+  due: 2023-12-01
+
+essay-04:
+  segment: 'week-04'
+  title: 'US v. Europe'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-04'
+  due: 2023-12-08
+
+essay-05:
+  segment: 'week-05'
+  title: 'Enlightenment'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-05'
+  due: 2023-12-15
+
+essay-06:
+  segment: 'week-06'
+  title: 'Future of the Church'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'essay-06'
+  due: 2023-12-22
+
+final:
+  segment: 'week-06'
+  title: 'Roman Cahtolic Doctrine and Practice'
+  icon: edit
+  header: 'Final'
+  url: 'final'
+  due: 2022-01-05
+
