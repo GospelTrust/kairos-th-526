@@ -116,7 +116,8 @@ lecture-12:
 
 lecture-13:
   segment: 'week-03'
-  title: 'Enlightenment part 1'
+  title: 'Enlightenment'
+  part: 1
   icon: tv
   header: 'Lecture 13'
   sequence: 13
@@ -126,7 +127,6 @@ lecture-13:
 lecture-14:
   segment: 'week-03'
   title: '18th Century'
-  part: 1
   icon: tv
   header: 'Lecture 14'
   sequence: 14
@@ -136,7 +136,6 @@ lecture-14:
 lecture-15:
   segment: 'week-03'
   title: 'Pilgrims in the New World'
-  part: 2
   icon: tv
   header: 'Lecture 15'
   sequence: 15
@@ -177,7 +176,6 @@ lecture-19:
   header: 'Lecture 19'
   sequence: 19
   url: 'lecture-19'
-  part: 1
   videos: [ "sKWUcSpk5Jk" ]
 
 lecture-20:
@@ -187,7 +185,6 @@ lecture-20:
   header: 'Lecture 20'
   sequence: 20
   url: 'lecture-20'
-  part: 2
   videos: [ "t2LTugtRQEQ" ]
 
 lecture-21:
@@ -379,5 +376,5 @@ final:
   icon: edit
   header: 'Final'
   url: 'final'
-  due: 2022-01-05
+  due: 2024-01-05
 
